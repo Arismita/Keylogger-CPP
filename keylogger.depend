@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1583519064 source:c:\users\kiit\desktop\ethical hacking resources\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"io.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1583246846 c:\users\kiit\desktop\ethical hacking resources\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1583246516 c:\users\kiit\desktop\ethical hacking resources\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1583246652 c:\users\kiit\desktop\ethical hacking resources\keylogger\base64.h
+	<vector>
+	<string>
+
+1583306911 c:\users\kiit\desktop\ethical hacking resources\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+
+1583513969 c:\users\kiit\desktop\ethical hacking resources\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1583588914 c:\users\kiit\desktop\ethical hacking resources\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<Windows.h>
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1583519086 c:\users\kiit\desktop\ethical hacking resources\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
